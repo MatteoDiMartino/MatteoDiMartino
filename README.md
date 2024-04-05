@@ -1,17 +1,4 @@
-<div>
-  <h1>HTML</h1>
-</div>
-
-h1 {
-  font-family: HELVETICA;
-  background-color: blue;
-  display: flex;
-  justify-content: center;
-  color: white;
-  padding: 10px 10px;
-  border: 2px solid white
-}
-
+Hii
 
 
 <!---
